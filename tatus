@@ -1,0 +1,23 @@
+[33mcommit aeb35313e3b918e5e5b7765fe48d6d3a22f2bd54[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mbranch-name[m[33m, [m[1;31morigin/branch-name[m[33m)[m
+Author: Mudassar Ali <mudassar174@gmail.com>
+Date:   Sat Sep 20 02:22:18 2025 -0700
+
+    Added new feature in branch-name
+
+[33mcommit 85d19b45f161d99c70aed89b2497bc20b6d58c50[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: Mudassar Ali <mudassar174@gmail.com>
+Date:   Fri Sep 19 22:05:05 2025 -0700
+
+    not
+
+[33mcommit 898eb556867697384f0d97cbf63bfc64cf11d8ee[m
+Author: Mudassar Ali <mudassar174@gmail.com>
+Date:   Thu Sep 18 03:34:37 2025 -0700
+
+    Updated code and removed secrets
+
+[33mcommit 0e725b983c2c927e7661b35ba8049719a19cb80a[m[33m ([m[1;32mtiket2[m[33m)[m
+Author: Mudassar Ali <mudassar174@gmail.com>
+Date:   Thu Sep 18 03:28:35 2025 -0700
+
+    first commit
